@@ -72,6 +72,7 @@ dependencies {
     implementation("androidx.compose.runtime:runtime-livedata:1.6.8")
     implementation ("com.google.firebase:firebase-auth:23.0.0")
     implementation ("com.google.firebase:firebase-database:21.0.0")
+    implementation("androidx.compose.material:material-icons-extended")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
